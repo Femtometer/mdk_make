@@ -1,3 +1,10 @@
+OS: Windows7+
+
+Python Requirements: terminal_layout intelhex
+
+MDK: UV4.exe add to PATH.
+
+
 ```
 ❯ mdk_make.exe
 选择：Project.uvprojx
